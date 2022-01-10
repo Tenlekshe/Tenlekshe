@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tenzin Lekshey
 - 👀 I’m interested in AI/ML and Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning some programming.
 - 📫 How to reach me bestg4u@gmail.com
 
 <!---
