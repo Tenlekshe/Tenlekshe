@@ -1,5 +1,7 @@
 -👋 Hi, I’m Tenzin Lekshey a beginner web developer.
+
 -👀 I’m interested in AI/ML and Web3.
+
 -🌱 I’m currently a Freshman at NSUT - CSDA branch.
 
 When it comes to server-side development, I'm still learning.
