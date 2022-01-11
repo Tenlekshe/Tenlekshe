@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tenzin Lekshey
-- 👀 I’m interested in AI/ML and Web Development
-- 🌱 I’m currently learning some programming as 1st-year CSDA student at NSUT.
-- 📫 How to reach me bestg4u@gmail.com
-
+👋 Hi, I’m Tenzin Lekshey a beginner web developer.
+👀 I’m interested in AI/ML and Web3.
+🌱 I’m currently a Freshman at NSUT - CSDA branch.
+When it comes to server-side development, I'm still learning.
+I like to create visually appealing websites and applications where users can easily find information. I am still exploring a variety of programming languages and trying to improve my communication skills.
 <!---
 Tenlekshe/Tenlekshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
