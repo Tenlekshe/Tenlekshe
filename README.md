@@ -1,12 +1,8 @@
--👋 Hi, I’m Tenzin Lekshey a beginner web developer.
+-👋 Hi, I’m Tenzin Lekshey.
 
--👀 I’m interested in web development
+-👀 Interested in webdev.
 
--🌱 I’m currently a Freshman at NSUT
+-🌱 learning
 
-I'm still learning.
-I like to create visually appealing websites and applications where users can easily find information. 
-<!---
-Tenlekshe/Tenlekshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
